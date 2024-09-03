@@ -21,4 +21,3 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 * target
 
 
-### Video coming soon!!!
